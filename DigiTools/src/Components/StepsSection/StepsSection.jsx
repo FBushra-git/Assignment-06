@@ -65,7 +65,7 @@ const StepsSection = () => {
               <h3 className="text-xl md:text-2xl font-bold text-slate-900 mb-4">
                 {step.title}
               </h3>
-              <p className="text-gray-400 text-sm leading-relaxed max-w-[250px]">
+              <p className="text-gray-400 text-sm leading-relaxed max-w-62.5">
                 {step.description}
               </p>
             </div>
